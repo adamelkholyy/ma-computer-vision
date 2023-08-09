@@ -2,5 +2,4 @@
 Notebook includes:
 - Manhattan frames
 - Camera matrix calibration
-- Vanishing points calculation \
-in the context of computer vision
+- Vanishing points calculation 
