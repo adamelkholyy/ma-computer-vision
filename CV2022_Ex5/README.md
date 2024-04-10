@@ -1,11 +1,5 @@
 # Computer Vision, Fall 2022
 
-#### Name: Adam El Kholy
-
-#### <font color='red'>Exercise 5, return latest on Sunday 16.10.2022 at 23.59 via Moodle</font>
-
-Return the answer in PDF and Jupyter Notebook formats.
-
 ## Ex 5.1. Camera matrix (4 p)
 
 Using the focal length, principal point and skew coefficient values given in this template, and equations given in Lecture 6, slide 49, form the camera matrix P and compute image coordinates (x,y) for an object point X (0, 0, 1, 1) when the origin of the world coordinate frame is
