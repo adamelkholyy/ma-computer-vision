@@ -3,10 +3,12 @@ Selection of notebooks from a masters computer vision course undertaken at Unive
 CV2022_Ex3:
 - Direct linear transform
 - Hough line transform \
+- 
 CV2022_Ex4:
 - Manhattan frames
 - Camera matrix calibration
 - Vanishing points calculation \
+- 
 CV2022_Ex5:
 - Fundamental matrix
 - Epipolar lines
