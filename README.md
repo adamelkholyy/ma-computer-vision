@@ -3,7 +3,9 @@ Selection of notebooks from a masters computer vision course undertaken at Unive
 
 CV2022_Ex3:
 - Direct linear transform
-- Hough line transform 
+- Hough line transform
+![png](CV2022_Ex3/output_8_1.png)
+
   
 CV2022_Ex4:
 - Manhattan frames
