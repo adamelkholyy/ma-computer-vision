@@ -1,5 +1,5 @@
 # ma-computer-vision
-Selection of notebooks from a masters computer vision course undertaken at University of Helsinki. Includes 3 notebooks tackling Hough Line Detection, Manhattan Frames, Epipolar Lines, Camera and Fundamental Matrix calculation along with other essential Computer Vision approaches. 
+Selection of notebooks from a masters computer vision course undertaken at University of Helsinki in Autumn 2022. Includes 3 notebooks implementing Hough Line Detection, Manhattan Frames, Epipolar Lines, Camera and Fundamental Matrix calculation along with other essential Computer Vision techniques. 
 
 CV2022_Ex3:
 - Direct linear transform
