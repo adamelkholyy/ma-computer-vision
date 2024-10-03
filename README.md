@@ -13,3 +13,28 @@ CV2022_Ex4:
 CV2022_Ex5:
 - Fundamental matrix
 - Epipolar lines
+
+# Gallery
+
+![png](output_19_0.png)
+
+
+
+![png](output_19_1.png)
+![png](output_9_2.png)
+![png](output_19_0.png)
+![png](CV2022_Ex3/output_3_0.png)
+![png](CV2022_Ex3/output_4_1.png)
+
+![png](CV2022_Ex3/output_8_0.png)
+
+
+
+![png](CV2022_Ex3/output_8_1.png)
+
+
+
+![png](CV2022_Ex3/output_8_2.png)
+![png](CV2022_Ex3/output_14_1.png)
+
+![png](CV2022_Ex3/output_21_1.png)
