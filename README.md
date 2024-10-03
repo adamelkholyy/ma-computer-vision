@@ -1,30 +1,20 @@
 # ma-computer-vision
 Selection of notebooks from a masters computer vision course undertaken at University of Helsinki in Autumn 2022. Includes 3 notebooks implementing Hough Line Detection, Manhattan Frames, Epipolar Lines, Camera and Fundamental Matrix calculation along with other essential Computer Vision techniques. 
 
-CV2022_Ex3:
+CV2022_Ex3
 - Direct linear transform
 - Hough line transform  
   
-CV2022_Ex4:
+CV2022_Ex4
 - Manhattan frames
 - Camera matrix calibration
 - Vanishing points calculation 
   
-CV2022_Ex5:
+CV2022_Ex5
 - Fundamental matrix
 - Epipolar lines
 
 # Gallery
-
-![png](CV2022_Ex5/output_19_0.png)
-
-
-
-![png](CV2022_Ex5/output_19_1.png)
-![png](CV2022_Ex4/output_9_2.png)
-![png](CV2022_Ex4/output_19_0.png)
-
-
 
 ![png](CV2022_Ex3/output_3_0.png)
 ![png](CV2022_Ex3/output_4_1.png)
@@ -41,3 +31,15 @@ CV2022_Ex5:
 ![png](CV2022_Ex3/output_14_1.png)
 
 ![png](CV2022_Ex3/output_21_1.png)
+
+![png](CV2022_Ex4/output_9_2.png)
+![png](CV2022_Ex4/output_19_0.png)
+
+
+![png](CV2022_Ex5/output_19_0.png)
+
+
+
+![png](CV2022_Ex5/output_19_1.png)
+
+
