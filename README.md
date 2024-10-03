@@ -35,9 +35,11 @@ Manual Hough line detection
 
 ![png](CV2022_Ex3/output_8_2.png)
 
-Manual direct linear transform
+Manual direct linear transform: Epipolar lines
 
 ![png](CV2022_Ex3/output_14_1.png)
+
+Manual direct linear transform: Image transformation
 
 ![png](CV2022_Ex3/output_21_1.png)
 
