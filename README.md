@@ -15,9 +15,15 @@ CV2022_Ex5
 - Epipolar lines
 
 # Gallery
+<h3>CV2022_Ex3</h3>
+CV2 Canny edge detection    
 
-![png](CV2022_Ex3/output_3_0.png)
-![png](CV2022_Ex3/output_4_1.png)
+![png](CV2022_Ex3/output_3_0.png)   
+
+
+![png](CV2022_Ex3/output_4_1.png)   
+
+Manual Hough line detection  
 
 ![png](CV2022_Ex3/output_8_0.png)
 
@@ -28,13 +34,30 @@ CV2022_Ex5
 
 
 ![png](CV2022_Ex3/output_8_2.png)
+
+Manual direct linear transform
+
 ![png](CV2022_Ex3/output_14_1.png)
 
 ![png](CV2022_Ex3/output_21_1.png)
 
+
+<h3>CV2022_Ex4</h3>
+
+Vanishing points  
+
 ![png](CV2022_Ex4/output_9_2.png)
+
+
+Manhattan frames 
+
 ![png](CV2022_Ex4/output_19_0.png)
 
+
+
+<h3>CV2022_Ex5</h3>
+
+Manual epipolar line detection using fundamental matrix F 
 
 ![png](CV2022_Ex5/output_19_0.png)
 
