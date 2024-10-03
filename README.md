@@ -16,11 +16,11 @@ CV2022_Ex5:
 
 # Gallery
 
-![png](output_19_0.png)
+![png](CV2022_Ex5/output_19_0.png)
 
 
 
-![png](output_19_1.png)
+![png](CV2022_Ex5/output_19_1.png)
 ![png](CV2022_Ex4/output_9_2.png)
 ![png](CV2022_Ex4/output_19_0.png)
 
