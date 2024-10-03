@@ -21,8 +21,11 @@ CV2022_Ex5:
 
 
 ![png](output_19_1.png)
-![png](output_9_2.png)
-![png](output_19_0.png)
+![png](CV2022_Ex4/output_9_2.png)
+![png](CV2022_Ex4/output_19_0.png)
+
+
+
 ![png](CV2022_Ex3/output_3_0.png)
 ![png](CV2022_Ex3/output_4_1.png)
 
