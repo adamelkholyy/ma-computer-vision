@@ -220,7 +220,7 @@ plt.imshow(img)
 
 
 
-![png](output_9_2.png)
+![png](images/output_9_2.png)
 
 
 ## Ex 4.3 Manhattan Frames (2 p)
@@ -312,7 +312,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](images/output_19_0.png)
 
 
 
