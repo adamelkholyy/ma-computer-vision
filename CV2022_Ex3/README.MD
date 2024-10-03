@@ -25,7 +25,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![png](images/output_3_0.png)
 
 
 
@@ -45,7 +45,7 @@ plt.imshow(edge_image, cmap="gray")
 
 
 
-![png](output_4_1.png)
+![png](images/output_4_1.png)
 
 
 
@@ -122,15 +122,15 @@ display_lines(900)
 ```
 
 
-![png](output_8_0.png)
+![png](images/output_8_0.png)
 
 
 
-![png](output_8_1.png)
+![png](images/output_8_1.png)
 
 
 
-![png](output_8_2.png)
+![png](images/output_8_2.png)
 
 
 ## Ex 3.2 Direct Linear Transformation (4 p)
@@ -195,7 +195,7 @@ matches = sorted(matches, key = lambda x:x.distance)
 
 
 
-![png](output_14_1.png)
+![png](images/output_14_1.png)
 
 
 
@@ -307,7 +307,7 @@ plt.imshow(im_dst)
 
 
 
-![png](output_21_1.png)
+![png](images/output_21_1.png)
 
 
 

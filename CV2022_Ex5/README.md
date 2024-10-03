@@ -292,11 +292,11 @@ display_epipolar_lines(cv2_F, "CV2 F matrix epipolar lines")
 ```
 
 
-![png](output_19_0.png)
+![png](images/output_19_0.png)
 
 
 
-![png](output_19_1.png)
+![png](images/output_19_1.png)
 
 
 
